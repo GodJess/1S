@@ -1,0 +1,24 @@
+﻿1CV8LOG(ver 2.0)
+4d875f19-a9e2-47b4-b2c1-eb30df54c3a5
+
+{1,071523a4-516f-4fce-ba4b-0d11ab7a1893,"",1},
+{2,"DESKTOP-SCEQ046",1},
+{3,"Designer",1},
+{4,"_$Session$_.Authentication",1},
+{13,1,1},
+{4,"_$Session$_.Start",2},
+{4,"_$InfoBase$_.ConfigUpdate",3},
+{4,"_$InfoBase$_.DBConfigUpdateStart",4},
+{4,"_$InfoBase$_.PredefinedDataUpdate",5},
+{5,82271d1f-18e6-4cc2-82f9-819f99ce2fb3,"",1},
+{4,"_$InfoBase$_.DBConfigUpdate",6},
+{3,"1CV8C",2},
+{4,"_$Transaction$_.Begin",7},
+{4,"_$Data$_.PredefinedDataInitialization",8},
+{5,82271d1f-18e6-4cc2-82f9-819f99ce2fb3,"Справочник.Валюты",1},
+{4,"_$Transaction$_.Commit",9},
+{3,"BackgroundJob",3},
+{4,"_$Session$_.Finish",10},
+{4,"_$Transaction$_.Rollback",11},
+{4,"_$Data$_.Update",12},
+{5,9ba37375-b4c3-4eb5-bd10-6daf2d0ff788,"РегистрСведений.КурсыВалют",2}

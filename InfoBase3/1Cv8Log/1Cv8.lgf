@@ -1,0 +1,25 @@
+﻿1CV8LOG(ver 2.0)
+12f300d1-d19f-41e3-99dc-6dbabd661ef8
+
+{1,071523a4-516f-4fce-ba4b-0d11ab7a1893,"",1},
+{2,"DESKTOP-SCEQ046",1},
+{3,"Designer",1},
+{4,"_$Session$_.Authentication",1},
+{13,1,1},
+{4,"_$Session$_.Start",2},
+{4,"_$InfoBase$_.ConfigUpdate",3},
+{4,"_$InfoBase$_.DBConfigUpdateStart",4},
+{4,"_$InfoBase$_.PredefinedDataUpdate",5},
+{5,d56ec6ee-5e0c-4b0f-a18d-60e3e5dcc0ee,"",1},
+{4,"_$InfoBase$_.DBConfigUpdate",6},
+{3,"1CV8C",2},
+{4,"_$Transaction$_.Begin",7},
+{4,"_$Data$_.New",8},
+{5,d56ec6ee-5e0c-4b0f-a18d-60e3e5dcc0ee,"Справочник.Товары",1},
+{4,"_$Transaction$_.Commit",9},
+{5,c7294db1-3a54-4740-adbf-a4bd3d539452,"Документ.ЗакупкаТоваров",2},
+{4,"_$Data$_.Post",10},
+{3,"BackgroundJob",3},
+{4,"_$Session$_.Finish",11},
+{4,"_$PerformError$_",12},
+{4,"_$Data$_.Update",13}
